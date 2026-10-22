@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#09091c">
+  <meta name="description" content="A little universe made for Ayu — Our 2nd Anniversary, Gilang & Ayu.">
+  <title>Our 2nd Anniversary — Gilang & Ayu</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="starfield" aria-hidden="true"></div>
+  <div class="ambient-glow glow-one" aria-hidden="true"></div>
+  <div class="ambient-glow glow-two" aria-hidden="true"></div>
+
+  <audio id="backgroundMusic" preload="none" loop>
+    <!-- Add an audio file you are allowed to use to assets/audio/teman-hidup.mp3.
+         The song title is a plan; no copyrighted recording is bundled. -->
+    <source src="assets/audio/teman-hidup.mp3" type="audio/mpeg">
+  </audio>
+
+  <header class="topbar">
+    <a class="wordmark" href="#home" aria-label="Kembali ke awal">G <span>✦</span> A</a>
+    <button class="music-control" id="musicToggle" type="button" aria-pressed="false">
+      <span class="music-icon" aria-hidden="true">♫</span>
+      <span id="musicLabel">Play our song</span>
+    </button>
+  </header>
+
+  <main>
+    <section class="hero section-screen" id="home">
+      <div class="hero-orbit orbit-a" aria-hidden="true"></div>
+      <div class="hero-orbit orbit-b" aria-hidden="true"></div>
+      <div class="hero-content">
+        <p class="eyebrow reveal">A LITTLE UNIVERSE, MADE FOR YOU</p>
+        <p class="hero-kicker reveal">Gilang Ramdan <span class="tiny-heart">♥</span> Ayu Rahmawati</p>
+        <h1 class="hero-title reveal">Our <em>2nd</em><br>Anniversary</h1>
+        <p class="hero-date reveal">27 October 2024 <span>—</span> forever in progress</p>
+        <p class="hero-copy reveal">Some stories find their way back to where they belong.</p>
+        <button class="primary-button" id="startStory" type="button">
+          <span>Start our story</span><span aria-hidden="true">↗</span>
+        </button>
+        <p class="scroll-hint">SCROLL SLOWLY · TAKE YOUR TIME</p>
+      </div>
+      <div class="moon" aria-hidden="true"></div>
+      <span class="floating-heart heart-one" aria-hidden="true">♡</span>
+      <span class="floating-heart heart-two" aria-hidden="true">♥</span>
+      <span class="floating-heart heart-three" aria-hidden="true">♡</span>
+    </section>
+
+    <section class="section time-section reveal-section" id="our-time">
+      <div class="section-heading">
+        <p class="eyebrow">A MOMENT IN OUR UNIVERSE</p>
+        <h2>Look how far <em>we've come.</em></h2>
+        <p class="section-intro">Waktu terus berjalan, tapi beberapa hal tetap punya tempat istimewa di hati.</p>
+      </div>
+      <div class="timer-panel glass-panel">
+        <p class="panel-label">OUR TIME TOGETHER</p>
+        <div class="timer-grid" id="elapsedTimer" aria-label="Waktu hubungan">
+          <div class="time-unit"><strong data-unit="days">—</strong><span>days</span></div>
+          <div class="time-unit"><strong data-unit="hours">—</strong><span>hours</span></div>
+          <div class="time-unit"><strong data-unit="minutes">—</strong><span>minutes</span></div>
+          <div class="time-unit"><strong data-unit="seconds">—</strong><span>seconds</span></div>
+        </div>
+        <p class="timer-note">Since we chose each other again · 27 October 2024</p>
+      </div>
+      <div class="countdown-panel glass-panel" id="anniversaryPanel">
+        <p class="panel-label" id="countdownEyebrow">UNTIL OUR NEXT ANNIVERSARY</p>
+        <h3 id="countdownTitle">A little more time until our day.</h3>
+        <div class="countdown-grid" id="countdownTimer">
+          <div class="time-unit"><strong data-count="days">—</strong><span>days</span></div>
+          <div class="time-unit"><strong data-count="hours">—</strong><span>hours</span></div>
+          <div class="time-unit"><strong data-count="minutes">—</strong><span>minutes</span></div>
+          <div class="time-unit"><strong data-count="seconds">—</strong><span>seconds</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section story-section reveal-section" id="our-story">
+      <div class="section-heading">
+        <p class="eyebrow">CHAPTER ONE · HOW IT BEGAN</p>
+        <h2>It started with <em>seblak.</em></h2>
+        <p class="section-intro">Dari obrolan sederhana sampai perjalanan yang mengubah banyak hal.</p>
+      </div>
+      <div class="timeline">
+        <article class="timeline-item">
+          <span class="timeline-dot"></span>
+          <p class="timeline-date">THE FIRST HELLO</p>
+          <h3>One little chat, one unexpected story.</h3>
+          <p>Semuanya berawal dari Leobot di Telegram. Obrolan tentang seblak yang sederhana ternyata menjadi pintu menuju cerita kita. Dari sana, percakapan berlanjut ke WhatsApp, dan kita mulai mengenal satu sama lain lebih dekat.</p>
+        </article>
+        <article class="timeline-item">
+          <span class="timeline-dot"></span>
+          <p class="timeline-date">AUGUST 2023</p>
+          <h3>When we first became “us”.</h3>
+          <p>Saat Agustusan 2023, kita memulai hubungan dan menulis bab pertama sebagai pasangan. Waktu itu kita belum tahu seperti apa perjalanan ke depan, tapi kita punya kesempatan untuk saling mengenal dan menciptakan kenangan.</p>
+        </article>
+        <article class="timeline-item">
+          <span class="timeline-dot"></span>
+          <p class="timeline-date">THE QUIET CHAPTER</p>
+          <h3>Seven months apart.</h3>
+          <p>Pada awal 2024, perjalanan kita sempat berhenti. Kita kembali menjadi dua orang yang asing, menjalani hari masing-masing selama tujuh bulan. Jarak itu bukan bagian yang mudah, tetapi ia menjadi bagian dari cerita yang membentuk kita.</p>
+        </article>
+        <article class="timeline-item">
+          <span class="timeline-dot"></span>
+          <p class="timeline-date">27 OCTOBER 2024</p>
+          <h3>A second chance, a new beginning.</h3>
+          <p>Lalu kita dipertemukan kembali. Pada tanggal ini, kita memilih untuk memulai lagi—bukan mengulang semuanya dengan cara yang sama, melainkan memberi ruang untuk cerita baru. Dan hari ini, aku bersyukur kita sampai sejauh ini.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section memories-section reveal-section" id="memories">
+      <div class="section-heading">
+        <p class="eyebrow">CHAPTER TWO · LITTLE MEMORIES</p>
+        <h2>Sixteen meetings, <em>countless memories.</em></h2>
+        <p class="section-intro">Beberapa momen mungkin terlihat sederhana, tapi tetap berarti karena kita menjalaninya bersama.</p>
+      </div>
+      <div class="memory-feature">
+        <div class="memory-image-wrap">
+          <img id="slideshowImage" src="assets/images/memory-01.svg" alt="Placeholder foto kenangan pertama" loading="lazy">
+          <span class="image-counter" id="imageCounter">01 / 04</span>
+        </div>
+        <div class="memory-caption">
+          <p class="eyebrow" id="memoryEyebrow">A MEMORY TO KEEP</p>
+          <h3 id="memoryTitle">Little moments, held close.</h3>
+          <p id="memoryDescription">Ganti gambar dan teks contoh ini dengan kenangan kalian sendiri.</p>
+          <div class="gallery-controls">
+            <button class="round-button" id="previousMemory" type="button" aria-label="Foto sebelumnya">←</button>
+            <div class="gallery-dots" id="galleryDots" aria-label="Pilih foto"></div>
+            <button class="round-button" id="nextMemory" type="button" aria-label="Foto berikutnya">→</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="chat-section">
+        <div class="chat-heading">
+          <p class="eyebrow">A LITTLE PIECE OF OUR BEGINNING</p>
+          <h3>Words we once <em>saved.</em></h3>
+          <p>Screenshot chat lama bisa kamu taruh di sini sebagai potongan kecil dari awal cerita.</p>
+        </div>
+        <div class="chat-grid">
+          <figure class="chat-card">
+            <img src="assets/images/chat-01.svg" alt="Placeholder screenshot chat pertama" loading="lazy">
+            <figcaption>Our first conversations</figcaption>
+          </figure>
+          <figure class="chat-card">
+            <img src="assets/images/chat-02.svg" alt="Placeholder screenshot chat kedua" loading="lazy">
+            <figcaption>A message worth keeping</figcaption>
+          </figure>
+          <figure class="chat-card">
+            <img src="assets/images/chat-03.svg" alt="Placeholder screenshot chat ketiga" loading="lazy">
+            <figcaption>Little things, big memories</figcaption>
+          </figure>
+        </div>
+        <p class="privacy-note">Tip: samarkan nomor telepon, alamat, atau informasi pribadi sebelum mengunggah screenshot ke repository publik.</p>
+      </div>
+    </section>
+
+    <section class="section letter-section reveal-section" id="letter">
+      <div class="letter-stars" aria-hidden="true">✦　·　✧　　✦　·　✧</div>
+      <p class="eyebrow">ONE LAST LITTLE SURPRISE</p>
+      <h2>For you, <em>Sayang.</em></h2>
+      <p class="section-intro">Ada sesuatu yang ingin aku sampaikan, pelan-pelan, dari hati.</p>
+      <button class="primary-button letter-button" id="openLetter" type="button">
+        <span>Open your letter</span><span aria-hidden="true">♡</span>
+      </button>
+
+      <article class="love-letter glass-panel" id="loveLetter" hidden>
+        <p class="letter-date">27 October 2026 · Our little universe</p>
+        <h3>Untuk Ayu, Sayangku.</h3>
+        <div class="letter-body" id="letterBody" aria-live="polite"></div>
+        <button class="text-button" id="replayLetter" type="button">Read it again ↻</button>
+      </article>
+    </section>
+
+    <section class="finale section-screen reveal-section" id="finale">
+      <div class="finale-content">
+        <p class="eyebrow">AND THIS ISN'T THE END</p>
+        <h2>Until our <em>next chapter.</em></h2>
+        <p>Terima kasih sudah menjadi bagian dari ceritaku, Sayang.</p>
+        <p class="final-signature">With love, always,<br><span>Gilang ♡</span></p>
+        <button class="text-button" id="backToLetter" type="button">Back to your letter ↑</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <span>Made with love by Gilang</span>
+    <span>G <span class="tiny-heart">♥</span> A · 27.10.2024</span>
+  </footer>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="js/timer.js"></script>
+  <script src="js/gallery.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>
