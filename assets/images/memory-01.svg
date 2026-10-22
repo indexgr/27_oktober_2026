@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1125" viewBox="0 0 900 1125">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#211747"/><stop offset="1" stop-color="#5f4a9b"/></linearGradient>
+ <radialGradient id="glow"><stop offset="0" stop-color="#d9c8ff" stop-opacity=".48"/><stop offset="1" stop-color="#d9c8ff" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="100%" height="100%" fill="url(#bg)"/>
+<circle cx="648.0" cy="258.75" r="306.0" fill="url(#glow)"/>
+<circle cx="648.0" cy="258.75" r="72.0" fill="#e7e1ff" opacity=".72"/>
+<g fill="#fff" opacity=".7">
+ <circle cx="85" cy="105" r="2"/><circle cx="210" cy="185" r="1.8"/><circle cx="490" cy="120" r="2"/>
+ <circle cx="130" cy="350" r="1.5"/><circle cx="520" cy="400" r="2"/><circle cx="350" cy="300" r="1.4"/>
+ <circle cx="180" cy="550" r="2"/><circle cx="430" cy="620" r="1.5"/><circle cx="270" cy="710" r="1.8"/>
+</g>
+<path d="M0 866.25 Q252.00000000000003 708.75 468.0 877.5 T900 810.0 V1125 H0Z" fill="#09091c" opacity=".35"/>
+<text x="50%" y="540.0" fill="#f7f2ff" text-anchor="middle" font-family="Georgia,serif" font-size="42" letter-spacing="2">Memory 01</text>
+<text x="50%" y="607.5" fill="#ded5ff" text-anchor="middle" font-family="Arial,sans-serif" font-size="21">Tambahkan foto kalian</text>
+<text x="50%" y="1046.25" fill="#d6cbf5" opacity=".75" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">OUR LITTLE UNIVERSE</text>
+</svg>
