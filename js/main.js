@@ -96,7 +96,7 @@
   const openLetter = $("openLetter");
   const replayLetter = $("replayLetter");
   const paragraphs = [
-    "Sayang,",
+    "Nengnya Aku,",
     "Kadang aku masih nggak menyangka kalau perjalanan kita bisa sampai di titik ini. Dari obrolan sederhana tentang seblak di Telegram, lanjut ke WhatsApp, sampai akhirnya kita punya cerita yang begitu banyak untuk dikenang. Dulu mungkin kita nggak pernah membayangkan sejauh apa langkah ini akan membawa kita.",
     "Kita pernah punya awal, pernah kehilangan arah, lalu menjalani waktu sebagai dua orang yang saling asing. Tujuh bulan itu menjadi bagian dari perjalanan yang nggak mudah. Tapi hari ini, saat melihat kita kembali berjalan bersama, aku merasa bersyukur karena hidup memberi kita kesempatan untuk menulis bab yang baru.",
     "Terima kasih, Ayu, karena sudah hadir kembali di hidupku. Terima kasih untuk setiap waktu yang kamu luangkan, untuk setiap percakapan, tawa, perhatian, dan kenangan yang kita kumpulkan. Terima kasih karena sampai hari ini kita masih bisa saling mengenal, belajar memahami, dan menciptakan cerita kita sendiri.",
