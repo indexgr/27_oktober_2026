@@ -809,3 +809,115 @@ h2 {
     transition-duration: .01ms !important;
   }
 }
+
+/* =========================
+   HALAMAN PROSES WEBSITE
+========================= */
+
+.process-page {
+    position: relative;
+    min-height: 100vh;
+    padding: 65px 24px 35px;
+    color: var(--white);
+}
+
+.process-content {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.process-heading {
+    text-align: center;
+    margin-bottom: 42px;
+}
+
+.process-heading h1 {
+    color: #fffaff;
+    font-family: var(--serif);
+    font-size: clamp(30px, 5vw, 49px);
+    font-weight: normal;
+    line-height: 1.25;
+    letter-spacing: -1px;
+}
+
+.process-heading h1 em {
+    color: var(--lavender);
+    font-weight: normal;
+}
+
+.process-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 20px;
+    width: 100%;
+}
+
+.process-photo {
+    aspect-ratio: 3 / 4;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    background: var(--night-soft);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.24);
+}
+
+.process-photo img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+}
+
+.process-back {
+    display: flex;
+    justify-content: center;
+    margin-top: 42px;
+}
+
+.process-back-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 46px;
+    padding: 12px 25px;
+    border: 1px solid rgba(207, 183, 255, 0.42);
+    border-radius: 50px;
+    color: var(--lavender);
+    background: rgba(132, 102, 196, 0.09);
+    font-family: var(--sans);
+    font-size: 12px;
+    text-decoration: none;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.process-back-button:hover {
+    background: rgba(132, 102, 196, 0.22);
+    transform: translateY(-2px);
+}
+
+@media (max-width: 700px) {
+    .process-page {
+        padding: 48px 18px 28px;
+    }
+
+    .process-heading {
+        margin-bottom: 30px;
+    }
+
+    .process-gallery {
+        grid-template-columns: 1fr;
+        max-width: 430px;
+        margin: 0 auto;
+        gap: 20px;
+    }
+
+    .process-photo {
+        aspect-ratio: 4 / 5;
+    }
+
+    .process-back {
+        margin-top: 32px;
+    }
+}
