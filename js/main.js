@@ -53,11 +53,16 @@
   }
 
   $("startStory")?.addEventListener("click", () => {
-    $("our-time")?.scrollIntoView({ behavior: "smooth" });
+    // Unlock scrolling only after the visitor presses Start our story.
+    document.documentElement.classList.remove("intro-locked");
+    document.body.classList.remove("intro-locked");
+
+    // Begin the story and try to start music from this user gesture.
+    $("our-time")?.scrollIntoView({ behavior: "smooth", block: "start" });
     if (music && music.paused) {
-      // Browser playback is allowed here because this click is a user gesture.
       music.play().then(() => setMusicState(true)).catch(() => {
-        showToast("Tekan “Play our song” untuk memulai musik.");
+        setMusicState(false);
+        showToast("Musik belum tersedia. Tambahkan assets/audio/teman-hidup.mp3.");
       });
     }
   });
