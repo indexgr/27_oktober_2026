@@ -21,105 +21,105 @@
       image: "assets/images/memory-02.jpeg",
       alt: "Foto kenangan kedua kita",
       eyebrow: "TWO OF OUR MEMORIES",
-      title: "Meet Ke-2",
+      title: "Meet Ke 2",
       description: "Satu hari sederhana yang menjadi bagian dari cerita kita."
     },
     {
       image: "assets/images/memory-03.jpeg",
       alt: "Foto kenangan ketiga kita",
       eyebrow: "THREE OF OUR MEMORIES",
-      title: "Meet Ke-3",
+      title: "Meet Ke 3",
       description: "Bersamamu, hal sederhana pun terasa istimewa."
     },
     {
       image: "assets/images/memory-04.jpeg",
       alt: "Foto kenangan keempat kita",
       eyebrow: "FOUR OF OUR MEMORIES",
-      title: "Meet Ke-4",
+      title: "Meet Ke 4",
       description: "Satu lagi kenangan yang ingin selalu aku simpan."
     },
     {
       image: "assets/images/memory-05.jpeg",
       alt: "Foto kenangan kelima kita",
       eyebrow: "FIVE OF OUR MEMORIES",
-      title: "Meet Ke-5",
+      title: "Meet Ke 5",
       description: "Setiap momen bersamamu punya ceritanya sendiri."
     },
     {
       image: "assets/images/memory-06.jpeg",
       alt: "Foto kenangan keenam kita",
       eyebrow: "SIX OF OUR MEMORIES",
-      title: "Meet Ke-6",
+      title: "Meet Ke 6",
       description: "Terima kasih sudah menjadi bagian dari hari-hariku."
     },
     {
       image: "assets/images/memory-07.jpeg",
       alt: "Foto kenangan keenam kita",
       eyebrow: "SEVEN OF OUR MEMORIES",
-      title: "Meet Ke-7",
+      title: "Meet Ke 7",
       description: "Momen kecil yang selalu punya tempat di hatiku."
     },
     {
       image: "assets/images/memory-08.jpeg",
       alt: "Foto kenangan kedelapan kita",
       eyebrow: "EIGHT OF OUR MEMORIES",
-      title: "Meet Ke-8",
+      title: "Meet Ke 8",
       description: "Aku senang bisa melewati banyak hal bersamamu."
     },
     {
       image: "assets/images/memory-09.jpeg",
       alt: "Foto kenangan kesembilan kita",
       eyebrow: "NINE OF OUR MEMORIES",
-      title: "Meet Ke-9",
+      title: "Meet Ke 9",
       description: "Cerita kita masih panjang, dan aku ingin terus menjalaninya denganmu."
     },
     {
       image: "assets/images/memory-10.jpeg",
       alt: "Foto kenangan kesepuluh kita",
       eyebrow: "TEN OF OUR MEMORIES",
-      title: "Meet Ke-10",
+      title: "Meet Ke 10",
       description: "Hari biasa terasa berbeda saat ada kamu."
     },
     {
       image: "assets/images/memory-11.jpeg",
       alt: "Foto kenangan kesebelas kita",
       eyebrow: "ELEVEN OF OUR MEMORIES",
-      title: "PMeet Ke-11",
+      title: "Meet Ke 11",
       description: "Waktu yang kita habiskan bersama selalu berarti."
     },
     {
       image: "assets/images/memory-12.jpeg",
       alt: "Foto kenangan kedua belas kita",
       eyebrow: "TWELVE OF OUR MEMORIES",
-      title: "Meet Ke-12",
+      title: "Meet Ke 12",
       description: "Kita belajar, bertumbuh, dan saling mengenal lebih jauh."
     },
     {
       image: "assets/images/memory-13.jpeg",
       alt: "Foto kenangan ketiga belas kita",
       eyebrow: "THIRTEEN OF OUR MEMORIES",
-      title: "SMeet Ke-13",
+      title: "Meet Ke 13",
       description: "Di antara banyak hal, aku masih ingin memilih kamu."
     },
     {
       image: "assets/images/memory-14.jpeg",
       alt: "Foto kenangan keempat belas kita",
       eyebrow: "FOURTEEN OF OUR MEMORIES",
-      title: "Meet Ke-14",
+      title: "Meet Ke 14",
       description: "Semoga kita selalu punya alasan untuk tersenyum bersama."
     },
     {
       image: "assets/images/memory-15.jpeg",
       alt: "Foto kenangan kelima belas kita",
       eyebrow: "FIFTEEN OF OUR MEMORIES",
-      title: "OMeet Ke-15",
+      title: "Meet Ke 15",
       description: "Terima kasih sudah menjadi bagian dari perjalanan ini."
     },
     {
       image: "assets/images/memory-16.jpeg",
       alt: "Kenangan keenam belas kita",
       eyebrow: "SIXTEEN OF OUR MEMORIES",
-      title: "Meet Ke-16",
+      title: "Meet Ke 16",
       description: "Dua tahun perjalanan kita, dan aku masih ingin memilihmu."
     }
   ];
