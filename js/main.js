@@ -96,15 +96,13 @@
   const openLetter = $("openLetter");
   const replayLetter = $("replayLetter");
   const paragraphs = [
-    "Nengnya Aku,",
-    "Kadang aku masih nggak menyangka kalau perjalanan kita bisa sampai di titik ini. Dari obrolan sederhana tentang seblak di Telegram, lanjut ke WhatsApp, sampai akhirnya kita punya cerita yang begitu banyak untuk dikenang. Dulu mungkin kita nggak pernah membayangkan sejauh apa langkah ini akan membawa kita.",
-    "Kita pernah punya awal, pernah kehilangan arah, lalu menjalani waktu sebagai dua orang yang saling asing. Tujuh bulan itu menjadi bagian dari perjalanan yang nggak mudah. Tapi hari ini, saat melihat kita kembali berjalan bersama, aku merasa bersyukur karena hidup memberi kita kesempatan untuk menulis bab yang baru.",
-    "Terima kasih, Ayu, karena sudah hadir kembali di hidupku. Terima kasih untuk setiap waktu yang kamu luangkan, untuk setiap percakapan, tawa, perhatian, dan kenangan yang kita kumpulkan. Terima kasih karena sampai hari ini kita masih bisa saling mengenal, belajar memahami, dan menciptakan cerita kita sendiri.",
-    "Aku tahu hubungan bukan cuma tentang hari-hari yang indah. Ada hal yang perlu dipelajari, ada perbedaan yang perlu dipahami, dan ada usaha yang harus terus dijaga. Aku nggak berharap semuanya selalu sempurna. Aku cuma bersyukur karena sekarang kita punya kesempatan untuk menjalani semuanya dengan lebih dewasa dan lebih menghargai satu sama lain.",
-    "Nggak terasa, sekarang kita sudah sampai di dua tahun sejak kita memilih untuk bersama lagi, dan sudah melewati enam belas pertemuan yang menjadi bagian dari cerita kita. Mungkin buat orang lain angka itu sederhana, tapi buatku setiap momen punya arti karena ada kamu di dalamnya.",
-    "Semoga ke depannya kita masih bisa mengumpulkan banyak cerita baru—mengunjungi tempat yang belum pernah kita datangi, tertawa karena hal-hal kecil, saling menguatkan saat hari terasa berat, dan terus menemukan alasan untuk bersyukur. Aku ingin kita selalu ingat bahwa kesempatan kedua ini adalah sesuatu yang berharga.",
-    "Happy 2nd anniversary, Sayang. Terima kasih sudah menjadi bagian dari hidupku dan perjalanan yang sedang kita bangun. Kalau suatu hari nanti kita melihat kembali halaman ini, semoga kita bisa tersenyum dan berkata bahwa kita sudah melewati banyak hal dengan hati yang tetap mau berusaha.",
-    "Dengan penuh rasa syukur dan sayang,\nGilang ♡"
+    "Happy 2nd Anniversary Nengnya Aku,",
+    "Kadang aku masih nggak menyangka kalau perjalanan kita bisa sampai di titik ini. Berawal dari Leo Bot saling Love dan ngobrol di Telegram, Aku inget banget kita bahas seblak, habis itu entah kenapa kamu mau ngasih nomor kamu ke aku padahal baru kenal sepenuhnya, dan sampai akhirnya sampe sekarang udah 2 tahun kita pacaran.",
+    "Sudah 2 tahun berlalu, dan kita sudah di titik ini untuk menuju hal yang lebih serius, aku sangat bangga sama kamu bisa kuat dan selalu sabar bisa melewati segala masalah yang sudah kita lewati.❤️❤️❤️.",
+    "Selamat 2tahun ini aku sangat² berterimakasih sama kamu, dan aku minta maaf yang selalu banyak buat kamu nangis ataupun kecewa, maaf kalau aku bukan sosok manusia yang begitu sempurna atau sosok lelaki yang kamu idamkan, lepas dari itu aku sungguh² selalu aku usahakan buat kamu, apapun itu selagi aku mampu.🥺.",
+    "Banyak hal yang aku tau tentang dirimu mau dari kelebihan ataupun kekurangan, semoga kedepanya berjalan sesuai yang kita harapkan, dan semoga setiap ada masalah atau bencana yang menimpa kita, kita bisa melewati bersama semuanya.🤲🏻.",
+    "Terimakasih banyakk.",
+    "I love you❤️❤️❤️,\nGilang Ramdan ♡"
   ];
 
   let typingTimer = null;
