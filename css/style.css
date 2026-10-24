@@ -970,3 +970,47 @@ h2 {
         margin-top: 32px;
     }
 }
+
+
+
+/* =====================================
+   GALLERY: POSISI TOMBOL TETAP STABIL
+   ===================================== */
+
+/* Area keterangan foto */
+.memory-caption {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+/* Judul foto: sediakan ruang yang konsisten */
+.memory-caption h3 {
+  line-height: 1.3;
+  min-height: 2.6em;
+  margin-bottom: 12px;
+}
+
+/* Deskripsi foto: batasi ruang agar tidak mendorong tombol */
+.memory-caption > p:not(.eyebrow) {
+  line-height: 1.7;
+  min-height: 5.1em;
+  max-height: 5.1em;
+  overflow-y: auto;
+  margin-bottom: 20px;
+}
+
+/* Tombol dan titik navigasi selalu di bawah */
+.gallery-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin-top: auto;
+  min-height: 48px;
+}
+
+/* Ukuran tombol konsisten */
+.gallery-controls .round-button {
+  flex-shrink: 0;
+}
