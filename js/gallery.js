@@ -2,7 +2,7 @@
 (() => {
   "use strict";
   const memories = [
-    { image: "assets/images/memory-01.svg", alt: "Placeholder kenangan pertama", eyebrow: "A MEMORY TO KEEP", title: "Moment Tentang Kita", description: "Ganti gambar dan teks contoh ini dengan kenangan kalian sendiri." },
+    { image: "assets/images/memory-01.svg", alt: "Placeholder kenangan pertama", eyebrow: "A MEMORY TO KEEP", title: "First Time Meet", description: "Di hari pertama kita malu banget sampai jatuh pas naik motor.😭" },
     { image: "assets/images/memory-02.svg", alt: "Placeholder kenangan kedua", eyebrow: "ONE OF OUR DAYS", title: "Hari-hari Kita", description: "Tambahkan cerita singkat tentang foto ini—cukup satu atau dua kalimat." },
     { image: "assets/images/memory-03.svg", alt: "Placeholder kenangan ketiga", eyebrow: "JUST US", title: "Dunia lebih lembut bersamamu.", description: "Pilih momen yang membuatmu tersenyum setiap kali mengingatnya." },
     { image: "assets/images/memory-04.svg", alt: "Placeholder kenangan keempat", eyebrow: "CHAPTER SIXTEEN", title: "16 pertemuan, kenangan yang tak terhitung jumlahnya.", description: "Di sini kamu bisa menaruh foto dari pertemuan yang paling berkesan." }
