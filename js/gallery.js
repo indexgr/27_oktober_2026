@@ -20,106 +20,106 @@
     {
       image: "assets/images/memory-02.jpeg",
       alt: "Foto kenangan kedua kita",
-      eyebrow: "A LITTLE MOMENT",
-      title: "A Beautiful Day",
+      eyebrow: "TWO OF OUR MEMORIES",
+      title: "Meet Ke-2",
       description: "Satu hari sederhana yang menjadi bagian dari cerita kita."
     },
     {
       image: "assets/images/memory-03.jpeg",
       alt: "Foto kenangan ketiga kita",
-      eyebrow: "JUST THE TWO OF US",
-      title: "With You",
+      eyebrow: "THREE OF OUR MEMORIES",
+      title: "Meet Ke-3",
       description: "Bersamamu, hal sederhana pun terasa istimewa."
     },
     {
       image: "assets/images/memory-04.jpeg",
       alt: "Foto kenangan keempat kita",
-      eyebrow: "A MOMENT TO REMEMBER",
-      title: "Our Little Story",
+      eyebrow: "FOUR OF OUR MEMORIES",
+      title: "Meet Ke-4",
       description: "Satu lagi kenangan yang ingin selalu aku simpan."
     },
     {
       image: "assets/images/memory-05.jpeg",
       alt: "Foto kenangan kelima kita",
       eyebrow: "FIVE OF OUR MEMORIES",
-      title: "Another Chapter",
+      title: "Meet Ke-5",
       description: "Setiap momen bersamamu punya ceritanya sendiri."
     },
     {
       image: "assets/images/memory-06.jpeg",
       alt: "Foto kenangan keenam kita",
-      eyebrow: "YOU AND ME",
-      title: "My Favorite Person",
+      eyebrow: "SIX OF OUR MEMORIES",
+      title: "Meet Ke-6",
       description: "Terima kasih sudah menjadi bagian dari hari-hariku."
     },
     {
       image: "assets/images/memory-07.jpeg",
-      alt: "Foto kenangan ketujuh kita",
+      alt: "SEVEN OF OUR MEMORIES",
       eyebrow: "LITTLE HAPPINESS",
-      title: "A Happy Memory",
+      title: "Meet Ke-7",
       description: "Momen kecil yang selalu punya tempat di hatiku."
     },
     {
       image: "assets/images/memory-08.jpeg",
       alt: "Foto kenangan kedelapan kita",
       eyebrow: "SIDE BY SIDE",
-      title: "Together With You",
+      title: "Meet Ke-8",
       description: "Aku senang bisa melewati banyak hal bersamamu."
     },
     {
       image: "assets/images/memory-09.jpeg",
       alt: "Foto kenangan kesembilan kita",
       eyebrow: "HALF OF THE STORY",
-      title: "More Memories",
+      title: "Meet Ke-9",
       description: "Cerita kita masih panjang, dan aku ingin terus menjalaninya denganmu."
     },
     {
       image: "assets/images/memory-10.jpeg",
       alt: "Foto kenangan kesepuluh kita",
       eyebrow: "TEN LITTLE MOMENTS",
-      title: "A Day With You",
+      title: "Meet Ke-10",
       description: "Hari biasa terasa berbeda saat ada kamu."
     },
     {
       image: "assets/images/memory-11.jpeg",
       alt: "Foto kenangan kesebelas kita",
       eyebrow: "CLOSE TO MY HEART",
-      title: "Precious Time",
+      title: "PMeet Ke-11",
       description: "Waktu yang kita habiskan bersama selalu berarti."
     },
     {
       image: "assets/images/memory-12.jpeg",
       alt: "Foto kenangan kedua belas kita",
       eyebrow: "OUR JOURNEY",
-      title: "Growing Together",
+      title: "Meet Ke-12",
       description: "Kita belajar, bertumbuh, dan saling mengenal lebih jauh."
     },
     {
       image: "assets/images/memory-13.jpeg",
       alt: "Foto kenangan ketiga belas kita",
       eyebrow: "A STORY OF US",
-      title: "Still Choosing You",
+      title: "SMeet Ke-13",
       description: "Di antara banyak hal, aku masih ingin memilih kamu."
     },
     {
       image: "assets/images/memory-14.jpeg",
       alt: "Foto kenangan keempat belas kita",
       eyebrow: "ANOTHER SWEET MEMORY",
-      title: "You Make Me Smile",
+      title: "Meet Ke-14",
       description: "Semoga kita selalu punya alasan untuk tersenyum bersama."
     },
     {
       image: "assets/images/memory-15.jpeg",
       alt: "Foto kenangan kelima belas kita",
       eyebrow: "ALMOST TWO YEARS",
-      title: "Our Beautiful Journey",
+      title: "OMeet Ke-15",
       description: "Terima kasih sudah menjadi bagian dari perjalanan ini."
     },
     {
       image: "assets/images/memory-16.jpeg",
       alt: "Kenangan keenam belas kita",
       eyebrow: "OUR SECOND ANNIVERSARY",
-      title: "Two Years With You",
+      title: "Meet Ke-16",
       description: "Dua tahun perjalanan kita, dan aku masih ingin memilihmu."
     }
   ];
