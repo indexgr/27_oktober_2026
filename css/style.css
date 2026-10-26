@@ -1011,24 +1011,34 @@ h2 {
 }
 
 
-/* Merapatkan judul dan deskripsi galeri di tampilan HP */
+
+/* Memadatkan jarak judul dan deskripsi galeri di HP */
 @media (max-width: 680px) {
+    .memory-caption {
+        gap: 0 !important;
+    }
+
+    .memory-caption .eyebrow {
+        margin: 0 0 2px !important;
+        line-height: 1.3 !important;
+    }
+
     .memory-caption h3 {
-        min-height: auto;
-        margin-top: 4px;
-        margin-bottom: 6px;
-        line-height: 1.2;
+        margin: 0 0 4px !important;
+        min-height: 0 !important;
+        line-height: 1.1 !important;
     }
 
     .memory-caption > p:not(.eyebrow) {
-        min-height: auto;
-        max-height: none;
-        margin-top: 0;
-        margin-bottom: 14px;
-        line-height: 1.6;
-        overflow: visible;
+        margin: 0 0 10px !important;
+        min-height: 0 !important;
+        max-height: none !important;
+        padding: 0 !important;
+        line-height: 1.45 !important;
+        overflow: visible !important;
     }
 }
+
 
 /* Ukuran tombol konsisten */
 .gallery-controls .round-button {
