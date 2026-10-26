@@ -99,7 +99,7 @@
     "Happy 2nd Anniversary Nengnya Aku,",
     "Kadang aku masih nggak menyangka kalau perjalanan kita bisa sampai di titik ini. Berawal dari Leo Bot saling Love dan ngobrol di Telegram, Aku inget banget kita bahas seblak, habis itu entah kenapa kamu mau ngasih nomor kamu ke aku padahal baru kenal sepenuhnya, dan sampai akhirnya sampe sekarang udah 2 tahun kita pacaran.",
     "Sudah 2 tahun berlalu, dan kita sudah di titik ini untuk menuju hal yang lebih serius, aku sangat bangga sama kamu bisa kuat dan selalu sabar bisa melewati segala masalah yang sudah kita lewati.❤️❤️❤️.",
-    "Selamat 2tahun ini aku sangat² berterimakasih sama kamu, dan aku minta maaf yang selalu banyak buat kamu nangis ataupun kecewa, maaf kalau aku bukan sosok manusia yang begitu sempurna atau sosok lelaki yang kamu idamkan, lepas dari itu aku sungguh² selalu aku usahakan buat kamu, apapun itu selagi aku mampu.🥺.",
+    "Selama 2 ahun ini aku sangat² berterimakasih sama kamu, dan aku minta maaf yang selalu banyak buat kamu nangis ataupun kecewa, maaf kalau aku bukan sosok manusia yang begitu sempurna atau sosok lelaki yang kamu idamkan, lepas dari itu aku sungguh² selalu aku usahakan buat kamu, apapun itu selagi aku mampu.🥺.",
     "Banyak hal yang aku tau tentang dirimu mau dari kelebihan ataupun kekurangan, semoga kedepanya berjalan sesuai yang kita harapkan, dan semoga setiap ada masalah atau bencana yang menimpa kita, kita bisa melewati bersama semuanya.🤲🏻.",
     "Terimakasih banyakk.",
     "I love you❤️❤️❤️,\nGilang Ramdan ♡"
