@@ -15,112 +15,112 @@
       alt: "Foto kenangan pertama kita",
       eyebrow: "OUR FIRST MEMORY",
       title: "First Time Meet",
-      description: "Di hari pertama kita malu banget sampai jatuh pas naik motor. 😭"
+      description: "Di hari pertama, awal² yang sangat deg²an, dan gong nya kita malu banget sampai jatuh pas naik motor. 😭"
     },
     {
       image: "assets/images/memory-02.jpeg",
       alt: "Foto kenangan kedua kita",
       eyebrow: "TWO OF OUR MEMORIES",
       title: "Meet Ke 2",
-      description: "Satu hari sederhana yang menjadi bagian dari cerita kita."
+      description: "Kita jalan² ke Wisata Parang Gombong, piknik bawa sandwich.🥪"
     },
     {
       image: "assets/images/memory-03.jpeg",
       alt: "Foto kenangan ketiga kita",
       eyebrow: "THREE OF OUR MEMORIES",
       title: "Meet Ke 3",
-      description: "Bersamamu, hal sederhana pun terasa istimewa."
+      description: "Dimana kita pertama kalinya menonton bioskop, disana kita nonton Jumbo.👥"
     },
     {
       image: "assets/images/memory-04.jpeg",
       alt: "Foto kenangan keempat kita",
       eyebrow: "FOUR OF OUR MEMORIES",
       title: "Meet Ke 4",
-      description: "Satu lagi kenangan yang ingin selalu aku simpan."
+      description: "Kita DIY Tangan disana sangat lucuk, habis itu kita ke mall bermain banyak permainan dan beli bunga, dan malam nua kita bakar sate.🍢"
     },
     {
       image: "assets/images/memory-05.jpeg",
       alt: "Foto kenangan kelima kita",
       eyebrow: "FIVE OF OUR MEMORIES",
       title: "Meet Ke 5",
-      description: "Setiap momen bersamamu punya ceritanya sendiri."
+      description: "Kita nge warteg dan bakar sate ayam. 🍢🍽️"
     },
     {
       image: "assets/images/memory-06.jpeg",
       alt: "Foto kenangan keenam kita",
       eyebrow: "SIX OF OUR MEMORIES",
       title: "Meet Ke 6",
-      description: "Terima kasih sudah menjadi bagian dari hari-hariku."
+      description: "Kita ke Situ Darwin Bareng mama bapa, terus kita nonton bioskop Demon slayer. ⚔️"
     },
     {
       image: "assets/images/memory-07.jpeg",
       alt: "Foto kenangan keenam kita",
       eyebrow: "SEVEN OF OUR MEMORIES",
       title: "Meet Ke 7",
-      description: "Momen kecil yang selalu punya tempat di hatiku."
+      description: "Kita DIY berbentuk, terus ke Situ darwin berdua, Dan tidak lupa nyeblak.🥘"
     },
     {
       image: "assets/images/memory-08.jpeg",
       alt: "Foto kenangan kedelapan kita",
       eyebrow: "EIGHT OF OUR MEMORIES",
       title: "Meet Ke 8",
-      description: "Aku senang bisa melewati banyak hal bersamamu."
+      description: "1 year aniversary🎉, kita tukeran kado.🥰"
     },
     {
       image: "assets/images/memory-09.jpeg",
       alt: "Foto kenangan kesembilan kita",
       eyebrow: "NINE OF OUR MEMORIES",
       title: "Meet Ke 9",
-      description: "Cerita kita masih panjang, dan aku ingin terus menjalaninya denganmu."
+      description: "Di pertemuan ini kita kepantai bareng teman aku.🏖️"
     },
     {
       image: "assets/images/memory-10.jpeg",
       alt: "Foto kenangan kesepuluh kita",
       eyebrow: "TEN OF OUR MEMORIES",
       title: "Meet Ke 10",
-      description: "Hari biasa terasa berbeda saat ada kamu."
+      description: "Kita nyoba nyeblak deket kerjaan kamu.🥘"
     },
     {
       image: "assets/images/memory-11.jpeg",
       alt: "Foto kenangan kesebelas kita",
       eyebrow: "ELEVEN OF OUR MEMORIES",
       title: "Meet Ke 11",
-      description: "Waktu yang kita habiskan bersama selalu berarti."
+      description: "First time diajak ke Rengasdengklok dikenalin ke keluarga dan saudara² kamu.🫶🏻."
     },
     {
       image: "assets/images/memory-12.jpeg",
       alt: "Foto kenangan kedua belas kita",
       eyebrow: "TWELVE OF OUR MEMORIES",
       title: "Meet Ke 12",
-      description: "Kita belajar, bertumbuh, dan saling mengenal lebih jauh."
+      description: "Special Day, 4 April 2026 - Kita Tunangan.💍"
     },
     {
       image: "assets/images/memory-13.jpeg",
       alt: "Foto kenangan ketiga belas kita",
       eyebrow: "THIRTEEN OF OUR MEMORIES",
       title: "Meet Ke 13",
-      description: "Di antara banyak hal, aku masih ingin memilih kamu."
+      description: "Dimana kita nyoba ayam richeese"
     },
     {
       image: "assets/images/memory-14.jpeg",
       alt: "Foto kenangan keempat belas kita",
       eyebrow: "FOURTEEN OF OUR MEMORIES",
       title: "Meet Ke 14",
-      description: "Semoga kita selalu punya alasan untuk tersenyum bersama."
+      description: "Kita ke Walahar berdua, bucin bersama.🥰"
     },
     {
       image: "assets/images/memory-15.jpeg",
       alt: "Foto kenangan kelima belas kita",
       eyebrow: "FIFTEEN OF OUR MEMORIES",
       title: "Meet Ke 15",
-      description: "Terima kasih sudah menjadi bagian dari perjalanan ini."
+      description: "Ayu birthday🎉. Merayakan ulang tahun. 🥰🥰🥰"
     },
     {
       image: "assets/images/memory-16.jpeg",
       alt: "Kenangan keenam belas kita",
       eyebrow: "SIXTEEN OF OUR MEMORIES",
       title: "Meet Ke 16",
-      description: "Dua tahun perjalanan kita, dan aku masih ingin memilihmu."
+      description: "Pertemuan dimana bulan ke 2 tahun kita, ngejenguk saudara kamu di Rengasdengklok, setelah itu kita ke Pantai bareng mama dan bapa. 🏖️🥰🥰🥰🥰"
     }
   ];
 
