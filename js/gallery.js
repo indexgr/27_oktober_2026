@@ -92,7 +92,7 @@
       alt: "Foto kenangan kedua belas kita",
       eyebrow: "TWELVE OF OUR MEMORIES",
       title: "Meet Ke 12",
-      description: "Special Day, 4 April 2026 - Kita Tunangan.💍"
+      description: "Special Day, 3 April 2026 - Kita Tunangan.💍"
     },
     {
       image: "assets/images/memory-13.jpeg",
