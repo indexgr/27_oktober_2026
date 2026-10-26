@@ -1010,37 +1010,52 @@ h2 {
   min-height: 48px;
 }
 
-
-
-/* Memadatkan jarak judul dan deskripsi galeri di HP */
-@media (max-width: 680px) {
-    .memory-caption {
-        gap: 0 !important;
-    }
-
-    .memory-caption .eyebrow {
-        margin: 0 0 2px !important;
-        line-height: 1.3 !important;
-    }
-
-    .memory-caption h3 {
-        margin: 0 0 4px !important;
-        min-height: 0 !important;
-        line-height: 1.1 !important;
-    }
-
-    .memory-caption > p:not(.eyebrow) {
-        margin: 0 0 10px !important;
-        min-height: 0 !important;
-        max-height: none !important;
-        padding: 0 !important;
-        line-height: 1.45 !important;
-        overflow: visible !important;
-    }
-}
-
-
 /* Ukuran tombol konsisten */
 .gallery-controls .round-button {
   flex-shrink: 0;
 }
+
+
+/* Perbaikan jarak galeri khusus HP */
+@media (max-width: 680px) {
+    .memory-feature {
+        grid-template-columns: 1fr;
+        align-items: start;
+        gap: 12px;
+        margin-bottom: 45px;
+    }
+
+    .memory-caption {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+        padding: 0 2px;
+    }
+
+    .memory-caption .eyebrow {
+        margin: 0 0 5px;
+        line-height: 1.3;
+    }
+
+    .memory-caption h3 {
+        margin: 0 0 10px;
+        min-height: 0;
+        line-height: 1.15;
+    }
+
+    .memory-caption > p:not(.eyebrow) {
+        margin: 0 0 12px;
+        padding: 0;
+        min-height: 0;
+        max-height: none;
+        line-height: 1.5;
+        overflow: visible;
+    }
+
+    .gallery-controls {
+        margin-top: 8px;
+        min-height: 42px;
+        gap: 10px;
+    }
+}
+
