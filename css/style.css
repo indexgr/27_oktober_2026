@@ -1010,6 +1010,26 @@ h2 {
   min-height: 48px;
 }
 
+
+/* Merapatkan judul dan deskripsi galeri di tampilan HP */
+@media (max-width: 680px) {
+    .memory-caption h3 {
+        min-height: auto;
+        margin-top: 4px;
+        margin-bottom: 6px;
+        line-height: 1.2;
+    }
+
+    .memory-caption > p:not(.eyebrow) {
+        min-height: auto;
+        max-height: none;
+        margin-top: 0;
+        margin-bottom: 14px;
+        line-height: 1.6;
+        overflow: visible;
+    }
+}
+
 /* Ukuran tombol konsisten */
 .gallery-controls .round-button {
   flex-shrink: 0;
