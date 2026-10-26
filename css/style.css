@@ -1016,6 +1016,49 @@ h2 {
 }
 
 
+/* Menstabilkan posisi navigasi galeri di HP */
+@media (max-width: 680px) {
+    .memory-caption {
+        display: grid;
+        grid-template-rows: auto auto minmax(0, auto) auto;
+        align-content: start;
+    }
+
+    .memory-caption .eyebrow {
+        margin-bottom: 5px;
+    }
+
+    .memory-caption h3 {
+        margin-bottom: 10px;
+    }
+
+    .memory-caption > p:not(.eyebrow) {
+        margin-bottom: 12px;
+    }
+
+    .gallery-controls {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 0;
+        min-height: 48px;
+        width: 100%;
+    }
+
+    .gallery-controls .round-button {
+        flex-shrink: 0;
+    }
+
+    .gallery-dots {
+        flex: 1;
+        justify-content: center;
+        min-width: 0;
+    }
+}
+
+
+
 /* Perbaikan jarak galeri khusus HP */
 @media (max-width: 680px) {
     .memory-feature {
